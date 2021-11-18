@@ -1,2 +1,2 @@
-# COVID19
-Analysis of COVID-19 Dataset Sample from Our World In Data
+# COVID-19 Dataset Sample Analysis
+Sourced from https://github.com/owid/covid-19-data
